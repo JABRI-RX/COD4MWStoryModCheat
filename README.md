@@ -12,3 +12,7 @@ A simple intenral cheat menu with esp name for Call Of Duty 4 Modern Warfare bui
 
 ### Q:Do you honestly think people will use this goffy ass menu ? 
 ### A:Yes.
+
+## How to use this 
+### 1->Either you inject the DLL using ProcessHacker 
+### 3->Build the project and do number 1
